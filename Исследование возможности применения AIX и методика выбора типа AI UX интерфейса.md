@@ -1,4 +1,4 @@
-# AI Interaction & Typology Tools
+# AI Interaction typology tools
 
 ## Исследование возможности применения AIX и методика выбора типа AI UX интерфейса
 
