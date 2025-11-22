@@ -4,7 +4,7 @@
 
 ## Матрица применения типов взаимодействия с ИИ
 
-![Матрица применения типов взаимодействия с ИИ по уровням сложности систем](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/c7a0cb82881d442e6cab3a2a61f3bf4e/d1fa76e5-e206-42b9-8fff-5)
+![Матрица применения типов взаимодействия с ИИ по уровням сложности систем](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/c7a0cb82881d442e6cab3a2a61f3bf4e/d1fa76e5-e206-42b9-8fff-5f98e60170f2/1c286c0e.png)
 
 
 
