@@ -36,7 +36,7 @@
 - Контекстное проектирование UX и AI‑интерфейсов  
 - Автоматизированное тестирование, документирование и рефакторинг  
 - Интеграция с DevOps, MLOps и AIOps пайплайнами  
-- Поддержка методологических модулей: *AI Readiness Matrix*, *AIX Typology Tools* и *AI SDLC Blueprint*
+- Поддержка методологических модулей: *AI Readiness Matrix*, *AIX Intercation Matrix & Typology Tools* и *AI SDLC Blueprint*
 
 ***
 
