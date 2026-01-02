@@ -28,7 +28,7 @@ Stellar Framework представляет холистический подхо
 
   - AX (Agent Experience) — проектирование опыта автономных агентов как самостоятельных пользователей системы
 
-**2. Cognitive Methodology Layer ** 
+**2. Cognitive Methodology Layer** 
 
   - AI Readiness Matrix — оценка организационной готовности к внедрению ИИ
 
